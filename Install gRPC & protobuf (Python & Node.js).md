@@ -25,7 +25,7 @@ pip install grpcio-tools
 
 ```bash
 # 安装 protobuf
-pip install protobu
+pip install protobuf
 ```
 
 ### 下载并编译 protobuf 编译器
